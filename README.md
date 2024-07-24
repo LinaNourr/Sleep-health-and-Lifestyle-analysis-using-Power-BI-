@@ -17,7 +17,7 @@ To view and interact with the Power BI dashboards, follow these steps:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/sleep-health-analysis.git
+    git clone https://github.com/yourusername/Sleep-health-and-Lifestyle-analysis-using-Power-BI.git
     ```
 2. Open the Power BI file (.pbix) in Power BI Desktop.
 
